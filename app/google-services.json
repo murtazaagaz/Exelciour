@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85098195968",
+    "firebase_url": "https://mind-plus-life.firebaseio.com",
+    "project_id": "mind-plus-life",
+    "storage_bucket": "mind-plus-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85098195968:android:83a67117dfdef798",
+        "android_client_info": {
+          "package_name": "com.example.home.excelsiouruser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85098195968-16hjv83v92om5g8og7qtg58ddq0uhlhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOsEauIeBb0QtRlqQZ7deeBHPS6ut4Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
